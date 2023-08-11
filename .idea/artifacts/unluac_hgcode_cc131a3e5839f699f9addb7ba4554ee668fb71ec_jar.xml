@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="unluac-hgcode-cc131a3e5839f699f9addb7ba4554ee668fb71ec:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/unluac_hgcode_cc131a3e5839f699f9addb7ba4554ee668fb71ec_jar</output-path>
+    <root id="archive" name="unluac-hgcode-cc131a3e5839f699f9addb7ba4554ee668fb71ec.jar">
+      <element id="module-output" name="unluac-hgcode-cc131a3e5839f699f9addb7ba4554ee668fb71ec" />
+    </root>
+  </artifact>
+</component>
